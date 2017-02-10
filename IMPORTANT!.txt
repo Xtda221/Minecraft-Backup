@@ -1,0 +1,3 @@
+Hello my friend!, make sure u have MINECRAFT on %appdata% and make sure u don't change the minecraft folder name ".minecraft", the backup will be created on desktop.
+
+ have a nice day! =)
